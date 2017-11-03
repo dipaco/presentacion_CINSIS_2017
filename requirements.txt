@@ -1,5 +1,5 @@
+# Use python 3
 RISE
 scikit-image
-google-cloud
-keras
-theano
+google-cloud # configure Google Cloud Vision with your own google account
+#https://cloud.google.com/vision/docs/samples
