@@ -1,3 +1,5 @@
 RISE
 scikit-image
 google-cloud
+keras
+theano
